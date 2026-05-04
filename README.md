@@ -1,9 +1,9 @@
-🧹 # Cleaning Services Database
+🧹 #Cleaning Services Database
 
 A relational database project designed to simulate the operations of a cleaning services business.
 It focuses on modeling real-world scenarios such as order management, employee assignments, and service performance tracking.
 
-📌 ## Project Overview
+📌 ##Project Overview
 
 This project was built to practice:
 
@@ -14,7 +14,7 @@ Query optimization using indexes
 
 The database reflects how a cleaning business manages services, employees, and customer orders.
 
-🧱 ## Database Structure
+🧱 ##Database Structure
 Main Tables:
 services → Types of cleaning services offered
 orders → Customer bookings and job details
