@@ -20,6 +20,9 @@ services → Types of cleaning services offered
 orders → Customer bookings and job details
 employees → Workers available for assignments
 
+<img width="1124" height="663" alt="image" src="https://github.com/user-attachments/assets/c93bd736-beae-45b4-a72c-763bde3e92fc" />
+
+
 ## 🔗 Junction Table:
 order_employees
 Handles the many-to-many relationship between orders and employees.
